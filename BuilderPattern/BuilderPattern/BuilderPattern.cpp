@@ -4,7 +4,6 @@
 #include "stdafx.h"
 #include "builder.h"
 #include "director.h"
-#include "vld.h"
 
 int main()
 {
